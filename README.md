@@ -58,9 +58,6 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 DoctorsWell
-A healthcare staffing platform connecting hospitals with doctors.
-
 **Tech Used**
 - Next.js
 - MongoDB
@@ -68,40 +65,7 @@ A healthcare staffing platform connecting hospitals with doctors.
 - Authentication
 - Secure API Design
 
----
-
-### 📖 Kotoba AI
-
-An AI-powered Japanese learning platform focused on conversation practice, kanji, grammar, and long-term learning progress.
-
-Features include:
-
-- AI Tutor
-- Conversation Memory
-- Kanji Learning
-- Progress Tracking
-- JLPT Focused Lessons
-
----
-
-### 🤖 Jarvis AI Assistant
-
-A multi-AI assistant capable of interacting with multiple LLMs and handling conversations.
-
----
-
-## 🎯 2026 Goals
-
-- ✅ Master Linux
-- ✅ Learn Bash Scripting
-- 🔄 Become comfortable with Networking
-- 🔄 Learn Docker & Kubernetes
-- 🔄 Earn AWS Skills
-- 🔄 Improve Japanese to JLPT N3+
-- 🔄 Build Production-Ready Cloud Projects
-- 🔄 Contribute to Open Source
-
----
+ 
 
 ## 📈 GitHub Stats
 
