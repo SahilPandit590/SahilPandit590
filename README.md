@@ -6,6 +6,6 @@
 ### Connect With Me
 - GitHub: https://github.com/SahilPandit590
 - LinkedIn: https://www.linkedin.com/in/sahil-pandit-93565a313?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Instagram: Sahil_pandit_27
+- Instagram: sahil_pandit_27
 
 
